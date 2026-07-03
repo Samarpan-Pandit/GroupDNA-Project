@@ -3,7 +3,7 @@
 **Description:** A behavioral analytics tool for WhatsApp group chats built using only Python fundamentals and NumPy.
 
 ## 📸 Project Output
-*(Important: Drag and drop your final terminal screenshot here so recruiters can see it immediately!)* 
+![Final Report Screenshot](Final_report_Screenshot.png)
 
 ## 🛑 Technical Constraints
 To prove my grasp of core programming concepts, this project was built under strict constraints:
